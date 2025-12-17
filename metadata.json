@@ -1,0 +1,7 @@
+{
+  "name": "Hình Học Dễ Hiểu",
+  "description": "Ứng dụng chuyên biệt hỗ trợ học Toán THCS (Hình học & Đại số) với công nghệ AI, vẽ hình minh họa và sơ đồ tư duy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
